@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating gz_test.egg-info
+writing gz_test.egg-info/PKG-INFO
+writing dependency_links to gz_test.egg-info/dependency_links.txt
+writing requirements to gz_test.egg-info/requires.txt
+writing top-level names to gz_test.egg-info/top_level.txt
+writing manifest file 'gz_test.egg-info/SOURCES.txt'
+reading manifest file 'gz_test.egg-info/SOURCES.txt'
+writing manifest file 'gz_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages/gz-test.egg-link (link to .)
+
+Installed /home/wignesh/gz_test/build/gz_test
+running symlink_data
+creating /home/wignesh/gz_test/install/gz_test/share/ament_index
+creating /home/wignesh/gz_test/install/gz_test/share/ament_index/resource_index
+creating /home/wignesh/gz_test/install/gz_test/share/ament_index/resource_index/packages
+symbolically linking /home/wignesh/gz_test/build/gz_test/resource/gz_test -> /home/wignesh/gz_test/install/gz_test/share/ament_index/resource_index/packages
+symbolically linking /home/wignesh/gz_test/build/gz_test/package.xml -> /home/wignesh/gz_test/install/gz_test/share/gz_test
+creating /home/wignesh/gz_test/install/gz_test/share/gz_test/launch
+symbolically linking /home/wignesh/gz_test/build/gz_test/launch/temp_launch.py -> /home/wignesh/gz_test/install/gz_test/share/gz_test/launch
+symbolically linking /home/wignesh/gz_test/build/gz_test/launch/test_launch.py -> /home/wignesh/gz_test/install/gz_test/share/gz_test/launch
+creating /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+symbolically linking /home/wignesh/gz_test/build/gz_test/description/main.urdf.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+symbolically linking /home/wignesh/gz_test/build/gz_test/description/macros.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+symbolically linking /home/wignesh/gz_test/build/gz_test/description/control.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+symbolically linking /home/wignesh/gz_test/build/gz_test/description/gazebo.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+creating /home/wignesh/gz_test/install/gz_test/share/gz_test/config
+symbolically linking /home/wignesh/gz_test/build/gz_test/config/controllers.yaml -> /home/wignesh/gz_test/install/gz_test/share/gz_test/config
+creating /home/wignesh/gz_test/install/gz_test/share/gz_test/rviz
+symbolically linking /home/wignesh/gz_test/build/gz_test/rviz/gz_test.rviz -> /home/wignesh/gz_test/install/gz_test/share/gz_test/rviz

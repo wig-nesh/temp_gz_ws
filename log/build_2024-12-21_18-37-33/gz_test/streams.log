@@ -1,0 +1,34 @@
+[0.371s] Invoking command in '/home/wignesh/gz_test/build/gz_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/wignesh/gz_test/build/gz_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wignesh/gz_test/build/gz_test/build --no-deps symlink_data
+[0.527s] running develop
+[0.586s] running egg_info
+[0.586s] creating gz_test.egg-info
+[0.591s] writing gz_test.egg-info/PKG-INFO
+[0.591s] writing dependency_links to gz_test.egg-info/dependency_links.txt
+[0.591s] writing requirements to gz_test.egg-info/requires.txt
+[0.591s] writing top-level names to gz_test.egg-info/top_level.txt
+[0.591s] writing manifest file 'gz_test.egg-info/SOURCES.txt'
+[0.602s] reading manifest file 'gz_test.egg-info/SOURCES.txt'
+[0.603s] writing manifest file 'gz_test.egg-info/SOURCES.txt'
+[0.610s] running build_ext
+[0.610s] Creating /home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages/gz-test.egg-link (link to .)
+[0.610s] 
+[0.610s] Installed /home/wignesh/gz_test/build/gz_test
+[0.610s] running symlink_data
+[0.611s] creating /home/wignesh/gz_test/install/gz_test/share/ament_index
+[0.611s] creating /home/wignesh/gz_test/install/gz_test/share/ament_index/resource_index
+[0.611s] creating /home/wignesh/gz_test/install/gz_test/share/ament_index/resource_index/packages
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/resource/gz_test -> /home/wignesh/gz_test/install/gz_test/share/ament_index/resource_index/packages
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/package.xml -> /home/wignesh/gz_test/install/gz_test/share/gz_test
+[0.611s] creating /home/wignesh/gz_test/install/gz_test/share/gz_test/launch
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/launch/temp_launch.py -> /home/wignesh/gz_test/install/gz_test/share/gz_test/launch
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/launch/test_launch.py -> /home/wignesh/gz_test/install/gz_test/share/gz_test/launch
+[0.611s] creating /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/description/main.urdf.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/description/macros.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/description/control.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+[0.611s] symbolically linking /home/wignesh/gz_test/build/gz_test/description/gazebo.xacro -> /home/wignesh/gz_test/install/gz_test/share/gz_test/description
+[0.612s] creating /home/wignesh/gz_test/install/gz_test/share/gz_test/config
+[0.612s] symbolically linking /home/wignesh/gz_test/build/gz_test/config/controllers.yaml -> /home/wignesh/gz_test/install/gz_test/share/gz_test/config
+[0.612s] creating /home/wignesh/gz_test/install/gz_test/share/gz_test/rviz
+[0.612s] symbolically linking /home/wignesh/gz_test/build/gz_test/rviz/gz_test.rviz -> /home/wignesh/gz_test/install/gz_test/share/gz_test/rviz
+[0.629s] Invoked command in '/home/wignesh/gz_test/build/gz_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/wignesh/gz_test/build/gz_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wignesh/gz_test/build/gz_test/build --no-deps symlink_data

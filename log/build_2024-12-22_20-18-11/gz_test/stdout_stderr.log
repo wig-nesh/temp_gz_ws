@@ -1,0 +1,13 @@
+running develop
+running egg_info
+writing gz_test.egg-info/PKG-INFO
+writing dependency_links to gz_test.egg-info/dependency_links.txt
+writing requirements to gz_test.egg-info/requires.txt
+writing top-level names to gz_test.egg-info/top_level.txt
+reading manifest file 'gz_test.egg-info/SOURCES.txt'
+writing manifest file 'gz_test.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages/gz-test.egg-link (link to .)
+
+Installed /home/wignesh/gz_test/build/gz_test
+running symlink_data

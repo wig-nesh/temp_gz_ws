@@ -1,0 +1,15 @@
+[1.065s] Invoking command in '/home/wignesh/gz_test/build/gz_test': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/wignesh/gz_test/build/gz_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wignesh/gz_test/build/gz_test/build --no-deps symlink_data
+[1.443s] running develop
+[1.643s] running egg_info
+[1.665s] writing gz_test.egg-info/PKG-INFO
+[1.665s] writing dependency_links to gz_test.egg-info/dependency_links.txt
+[1.665s] writing requirements to gz_test.egg-info/requires.txt
+[1.665s] writing top-level names to gz_test.egg-info/top_level.txt
+[1.704s] reading manifest file 'gz_test.egg-info/SOURCES.txt'
+[1.705s] writing manifest file 'gz_test.egg-info/SOURCES.txt'
+[1.731s] running build_ext
+[1.731s] Creating /home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages/gz-test.egg-link (link to .)
+[1.732s] 
+[1.732s] Installed /home/wignesh/gz_test/build/gz_test
+[1.732s] running symlink_data
+[1.764s] Invoked command in '/home/wignesh/gz_test/build/gz_test' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/wignesh/gz_test/build/gz_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wignesh/gz_test/install/gz_test/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/wignesh/gz_test/build/gz_test/build --no-deps symlink_data
